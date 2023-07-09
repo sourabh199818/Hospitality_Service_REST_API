@@ -1,0 +1,1 @@
+This Repo has all the required REST_API web-app code using spring-security. In addition I have also added List (In-memory managerment) incase the DB configurations doesn't work.  
